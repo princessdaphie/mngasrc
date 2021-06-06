@@ -5,6 +5,14 @@
   "author": "Mochi Shiratama",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122838-qZbrI2Zd57Qs.jpg",
   "chapters": {
+    "05": {
+      "title": "Hand to hand contact, what does that mean...?",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/ad182746-252b-4b11-8580-2ab310978919/"
+      },
+      "last_updated": "1613494800"
+    },
     "06": {
       "title": "We Are the Cute Succubus Sisters",
       "volume": "",
