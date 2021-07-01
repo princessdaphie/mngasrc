@@ -5,6 +5,111 @@
   "author": "Kenji Saitou",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110048-r5DTfCLC8k5g.jpg",
   "chapters": {
+
+    "01": {
+      "title": "The Silver Houkousha",
+      "volume": "1",
+      "groups": {
+        "Psycho Play": "/proxy/api/mangadex/chapter/3a3a69a3-05cb-4316-a504-0e7d2320b0d2/"
+      },
+      "last_updated": "1559318400"
+    },
+    "02": {
+      "title": "The Terror of Immortality",
+      "volume": "1",
+      "groups": {
+        "Psycho Play": "/proxy/api/mangadex/chapter/5dd6aa7f-d07b-40f1-a628-6b15f08dd697/"
+      },
+      "last_updated": "1559836800"
+    },
+    "03": {
+      "title": "Vigilance to Death",
+      "volume": "1",
+      "groups": {
+        "Psycho Play": "/proxy/api/mangadex/chapter/3c41ad48-cb3b-4db9-a43a-8d33936461b7/"
+      },
+      "last_updated": "1560787200"
+    },
+    "04": {
+      "title": "Revival Game",
+      "volume": "1",
+      "groups": {
+        "Psycho Play": "/proxy/api/mangadex/chapter/605235f1-1d81-437e-a935-3aafeaa6b417/"
+      },
+      "last_updated": "1564070400"
+    },
+    "05": {
+      "title": "Seven Demon Gods",
+      "volume": "2",
+      "groups": {
+        "Psycho Play": "/proxy/api/mangadex/chapter/f4cb8313-f68f-4e5c-abdc-e23801394f12/"
+      },
+      "last_updated": "1565798400"
+    },
+    "06": {
+      "title": "Weapon Master",
+      "volume": "2",
+      "groups": {
+        "Psycho Play & Concupiscence": "/proxy/api/mangadex/chapter/ce31ad11-0ca8-4c0c-99c7-dc69b0c88ecb/"
+      },
+      "last_updated": "1576602000"
+    },
+    "07": {
+      "title": "The Legendary Weapon",
+      "volume": "2",
+      "groups": {
+        "Enaga Scans": "/proxy/api/mangadex/chapter/b7aa3262-df2c-44be-ac6c-ef5e95a6c80c/"
+      },
+      "last_updated": "1586793600"
+    },
+    "08": {
+      "title": "Zerachiel’s Zanshutou",
+      "volume": "2",
+      "groups": {
+        "Enaga Scans": "/proxy/api/mangadex/chapter/44ae3b2a-566d-48f5-97bb-5a039e06091e/"
+      },
+      "last_updated": "1591632000"
+    },
+    "09": {
+      "title": "\"The Tyrant\" Lucchino",
+      "volume": "2",
+      "groups": {
+        "Enaga Scans": "/proxy/api/mangadex/chapter/0bfc21be-46bb-4a15-913e-9c1253029b47/"
+      },
+      "last_updated": "1597680000"
+    },
+    "10": {
+      "title": "The Sage's Advice",
+      "volume": "2",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/9e2d9661-a3d9-4c90-b17b-39a3e7c6adb7/"
+      },
+      "last_updated": "1612630800"
+    },
+    "11": {
+      "title": "Operation Start",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/c6dbe392-4df8-4f1c-a7e7-31de306f50b0/"
+      },
+      "last_updated": "1614186000"
+    },
+    "12": {
+      "title": "Kikyo's Determination Part 1",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/f5fdc5b7-cddd-4980-a91a-e6eca8f9575b/"
+      },
+      "last_updated": "1614704400"
+    },
+    "13": {
+      "title": "Kikyo's Determination Part 2",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/f9112b47-05ca-41db-ab63-990ae37ade59/"
+      },
+      "last_updated": "1615309200"
+    },
     "14": {
       "title": "Subjugation of \"The Tyrant\"",
       "volume": "3",
