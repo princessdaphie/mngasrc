@@ -5,7 +5,6 @@
   "author": "Kenji Saitou",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110048-r5DTfCLC8k5g.jpg",
   "chapters": {
-
     "01": {
       "title": "The Silver Houkousha",
       "volume": "1",
@@ -157,6 +156,14 @@
         "Daphie's": "/proxy/api/imgur/chapter/4HHGrye/"
       },
       "last_updated": "1625106530"
+    },
+    "20": {
+      "title": "Act 20",
+      "volume": "4",
+      "groups": {
+        "Daphie's": "/proxy/api/imgur/chapter/KFkcs2I/"
+      },
+      "last_updated": "1625604370"
     }
   }
 }
