@@ -113,7 +113,7 @@
       "title": "Subjugation of \"The Tyrant\"",
       "volume": "3",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/I17wO1m/"
+        "Daphie's": "/proxy/api/mangadex/chapter/67e74f83-0758-4f08-9f12-b4ccfccb94b7/"
       },
       "last_updated": "1617090840"
     },
@@ -121,7 +121,7 @@
       "title": "Kikyo Amagahara",
       "volume": "3",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/VLzCtRY/"
+        "Daphie's": "/proxy/api/mangadex/chapter/3d5f0548-0a88-4fb3-b09a-35de3cad76e4/"
       },
       "last_updated": "1618467050"
     },
@@ -129,7 +129,7 @@
       "title": "Meteoric Dance",
       "volume": "3",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/vkYmT6F/"
+        "Daphie's": "/proxy/api/mangadex/chapter/5f213a60-5636-4ff5-930a-08593abfb9fe/"
       },
       "last_updated": "1619662353"
     },
@@ -137,7 +137,7 @@
       "title": "Manatsu, the Wanderer, Part 1",
       "volume": "3",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/36Y49Ci/"
+        "Daphie's": "/proxy/api/mangadex/chapter/a58b34c8-3158-4f6f-b232-ac8b671e7cbd/"
       },
       "last_updated": "1621533557"
     },
@@ -145,7 +145,7 @@
       "title": "Manatsu, the Wanderer, Part 2",
       "volume": "3",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/Zrw6G2U/"
+        "Daphie's": "/proxy/api/mangadex/chapter/a1910b4a-8524-4fca-a145-91f621bf4c99/"
       },
       "last_updated": "1621533557"
     },
@@ -153,7 +153,7 @@
       "title": "Felice El Valistneia",
       "volume": "4",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/4HHGrye/"
+        "Daphie's": "/proxy/api/mangadex/chapter/40a531a9-c3f1-4f1b-b9a0-1f96f0677294/"
       },
       "last_updated": "1625106530"
     },
@@ -161,9 +161,17 @@
       "title": "Act 20",
       "volume": "4",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/KFkcs2I/"
+        "Daphie's": "/proxy/api/mangadex/chapter/f5454362-5faf-4f4d-a982-4f51be3462f4/"
       },
       "last_updated": "1625604370"
+    },
+    "21": {
+      "title": "Kazaribana",
+      "volume": "4",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/0f96ef80-9e78-4fa9-90da-cea32e3a7e25/"
+      },
+      "last_updated": "1627882401"
     }
   }
 }
