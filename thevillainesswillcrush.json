@@ -9,7 +9,7 @@
       "title": "A Destined Encounter (First part)",
       "volume": "4",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/YA6uFTT/"
+        "Daphie's": "/proxy/api/mangadex/chapter/8e71f37a-ec8c-4f11-8c01-15cf176e311c/"
       },
       "last_updated": "1616898817"
     },
@@ -17,7 +17,7 @@
       "title": "A Destined Encounter (Second part)",
       "volume": "4",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/IkDvipC/"
+        "Daphie's": "/proxy/api/mangadex/chapter/aff523ed-b1ed-4f66-a414-efc999bdf36b/"
       },
       "last_updated": "1617673059"
     },
@@ -25,7 +25,7 @@
       "title": "A Destined Encounter (Third part)",
       "volume": "4",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/ZVrHhmk/"
+        "Daphie's": "/proxy/api/mangadex/chapter/d0828d46-2fc0-4fe4-b829-790e559d5c2e/"
       },
       "last_updated": "1619317172"
     },
@@ -33,7 +33,7 @@
       "title": "The Villainess' Vacation (First part)",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/WWVbkJq/"
+        "Daphie's": "/proxy/api/mangadex/chapter/4559fd9d-685b-4fce-bdda-65b7e48daabe/"
       },
       "last_updated": "1620661520"
     },
@@ -41,7 +41,7 @@
       "title": "The Villainess' Vacation (Second part)",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/IR91JoN/"
+        "Daphie's": "/proxy/api/mangadex/chapter/83b13a67-a8e1-4f28-b527-54d529ca9a18/"
       },
       "last_updated": "1622230799"
     },
@@ -49,7 +49,7 @@
       "title": "The Villainess' Employment Compensation",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/Pd8uvnp/"
+        "Daphie's": "/proxy/api/mangadex/chapter/b6401112-f020-4f57-a4e8-d51e08f0c8c9/"
       },
       "last_updated": "1622996777"
     },
@@ -57,7 +57,7 @@
       "title": "The Villainess' Grand Love Comedy Strategy (Part One)",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/UNBisz4/"
+        "Daphie's": "/proxy/api/mangadex/chapter/a34e8699-ca2f-4fe5-ba47-e54a317f02c6/"
       },
       "last_updated": "1624390840"
     },
@@ -65,7 +65,7 @@
       "title": "The Villainess' Grand Love Comedy Strategy (Part Two)",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/vIFfxG6/"
+        "Daphie's": "/proxy/api/mangadex/chapter/52fd737b-cd3c-4f5b-ae0d-b88e2ac8ba7e/"
       },
       "last_updated": "1625421720"
     },
@@ -73,9 +73,17 @@
       "title": "The Villainess' Grand Love Comedy Strategy (Part Three)",
       "volume": "",
       "groups": {
-        "Daphie's": "/proxy/api/imgur/chapter/Wegbd2S/"
+        "Daphie's": "/proxy/api/mangadex/chapter/8806d677-1582-4f32-8449-1965ab2fd6fa/"
       },
       "last_updated": "1626713717"
+    },
+    "54": {
+      "title": "The Villainess and the Dragon (Part 1)",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/6b77b202-4ddc-4fc1-897a-00a94cde3d8e/"
+      },
+      "last_updated": "1628550337"
     }
   }
 }
