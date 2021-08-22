@@ -1,5 +1,5 @@
 {
-  "title": "Samayoeru Tensei-sha-tachi no Revival Game ",
+  "title": "Samayoeru Tensei-sha-tachi no Revival Game",
   "description": "When \"Nice Guy\" Asai Manatsu's marriage proposal gets rejected, he thinks his day can't get any worse, until a Knight in Skull helmet tries to kill him! He's saved by a beautiful, silver-haired swords-woman and told to flee, but his nice guy impulses are too strong and he saves her from an attack, getting himself killed in the process. As he dies he wishes to be reborn in a world where people won't judge him for taking care of others...",
   "artist": "Haruto Hino",
   "author": "Kenji Saitou",
@@ -180,6 +180,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/a0af8c2f-82da-4fac-a2db-0fce197d062f/"
       },
       "last_updated": "1629486307"
+    },
+    "23": {
+      "title": "Valliance, the Sage of Despair (2)",
+      "volume": "4",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/5d3926d8-3ccd-4fd5-b1b7-eff298ae3673/"
+      },
+      "last_updated": "1629595822"
     }
   }
 }
