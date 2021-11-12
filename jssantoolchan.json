@@ -12,6 +12,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/8e45156b-00c0-4f14-bf70-8c94400e8b1f/"
       },
       "last_updated": "1636317710"
+    },
+    "02": {
+      "title": "Meal",
+      "volume": "1",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/146ed724-7dcf-4f2c-86b5-03b8f42a09a5/"
+      },
+      "last_updated": "1636746890"
     }
   }
 }
