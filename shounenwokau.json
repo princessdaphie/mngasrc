@@ -84,6 +84,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/a7733357-1f14-4f68-ace4-5410015fd315/"
       },
       "last_updated": "1635893439"
+    },
+    "10": {
+      "title": "Answer",
+      "volume": "2",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/4d3912d7-510f-4f8b-88e4-8cc66d21f7a5/"
+      },
+      "last_updated": "1637113530"
     }
   }
 }
