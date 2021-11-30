@@ -28,6 +28,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/44332249-d7c1-4f06-a7a6-ec47dc870d8a/"
       },
       "last_updated": "1637519039"
+    },
+    "04": {
+      "title": "Date",
+      "volume": "1",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/d571ad1a-240c-415a-b53a-6850a490dfda/"
+      },
+      "last_updated": "1638237922"
     }
   }
 }
