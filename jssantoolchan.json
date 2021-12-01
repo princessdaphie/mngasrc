@@ -36,6 +36,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/d571ad1a-240c-415a-b53a-6850a490dfda/"
       },
       "last_updated": "1638237922"
+    },
+    "05": {
+      "title": "Lolicon",
+      "volume": "1",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/90e6202e-e24b-4953-b3b0-2fb2c43a7828/"
+      },
+      "last_updated": "1638389710"
     }
   }
 }
