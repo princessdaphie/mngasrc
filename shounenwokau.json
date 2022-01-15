@@ -124,6 +124,22 @@
         "Daphie's": "/proxy/api/mangadex/chapter/16828b97-1873-48a9-8ec3-1efe838486d1/"
       },
       "last_updated": "1641236002"
+    },
+    "15.1": {
+      "title": "Enigmatic Heart Part 1",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/98e639ee-4021-45a9-986e-bff0b98b4087/"
+      },
+      "last_updated": "1642273068"
+    },
+    "15.2": {
+      "title": "Enigmatic Heart Part 2",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/9cbb1181-c11c-4710-a0a0-6b0fa3f00b9a/"
+      },
+      "last_updated": "1642273068"
     }
   }
 }
