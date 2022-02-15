@@ -1,5 +1,5 @@
 {
-  "title": "A Life in Editing (Henshuu to Isshou)",
+  "title": "A Life in Editing (Henshuu no Isshou)",
   "description": "Author and editor, man and woman, a \"heart-pounding\" story.\nIn his seventh year as a manga editor, Tateyama became in charge of Yokozawa, the magazine's signature author.\n\"I'm going to make a big hit!\" he said excitedly.\nYokozawa-sensei provoked Tateyama, seduced him, and then—!?\nAuthor and editor, man and woman. Where's the line? Can you put everything you have into your manga?\nA \"heart-pounding\" story of a successful author x fledgling editor!",
   "artist": "Hagiwara Asami",
   "author": "Hagiwara Asami",
@@ -12,6 +12,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/4167f7ab-12d4-485f-b50d-237adde238f2/"
       },
       "last_updated": "1643254871"
+    },
+    "01": {
+      "title": "Seeds of Creativity",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/bcaf8372-1a4e-4f0e-b343-765c4a24e379/"
+      },
+      "last_updated": "1644968606"
     }
   }
 }
