@@ -1,5 +1,5 @@
 {
-  "title": "Can't Run From My Students (Oshiego Kara Nigerarenai)",
+  "title": "Can't Run From My Student (Oshiego Kara Nigerarenai)",
   "description": "Takayama, a teacher living his teacher's life \"going on with the flow\", is being scolded for his lazy attitude by Fuyuno, the most talented female student in his grade. In fact, Fuyuno has special feelings for Takayama...? Can the forbidden love between a teacher and a female student be avoided?",
   "artist": "Asahi Yuu",
   "author": "Asahi Yuu",
@@ -28,6 +28,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/01a76c9b-bdbb-440a-9b76-b8c0a4d81a81/"
       },
       "last_updated": "1644361717"
+    },
+    "04": {
+      "title": "Chapter 4",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/ce875865-236b-4f19-9e7d-b17d17065cfb/"
+      },
+      "last_updated": "1645328110"
     }
   }
 }
