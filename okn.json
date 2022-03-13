@@ -44,6 +44,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/f11ddbfb-9159-43fe-92f1-4a64173613b7/"
       },
       "last_updated": "1645764133"
+    },
+    "06": {
+      "title": "Chapter 6",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/1378c52c-1de1-4875-acfb-f7e9cab2e36b/"
+      },
+      "last_updated": "1647140409"
     }
   }
 }
