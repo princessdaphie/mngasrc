@@ -68,6 +68,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/82fca276-b87f-439f-aeca-c26ea2ba8db3/"
       },
       "last_updated": "1648922387"
+    },
+    "08.5": {
+      "title": "Encounter",
+      "volume": "1",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/b8ebf082-cc99-4254-a538-d4fd695e1fa7/"
+      },
+      "last_updated": "1649002884"
     }
   }
 }
