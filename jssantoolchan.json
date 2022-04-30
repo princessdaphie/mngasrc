@@ -76,6 +76,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/b8ebf082-cc99-4254-a538-d4fd695e1fa7/"
       },
       "last_updated": "1649002884"
+    },
+    "09": {
+      "title": "Movie",
+      "volume": "2",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/5fc118cb-2eda-4f7f-aa57-64246d666b8a/"
+      },
+      "last_updated": "1651288054"
     }
   }
 }
