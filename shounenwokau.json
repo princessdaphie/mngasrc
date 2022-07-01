@@ -172,6 +172,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/05c33360-1c8a-4988-bb8a-bafdd5c588e2/"
       },
       "last_updated": "1654785223"
+    },
+    "20": {
+      "title": "Your Special Someone",
+      "volume": "4",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/20df06a8-1305-4bb1-ac7b-c66a43bb544f/"
+      },
+      "last_updated": "1656645978"
     }
   }
 }
