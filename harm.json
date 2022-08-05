@@ -12,6 +12,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/e9078cff-1dc1-4173-8085-3701105d6653/"
       },
       "last_updated": "1649476104"
+    },
+    "02": {
+      "title": "Chapter 2",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/d0107691-9baf-4325-8a00-3114ed95c62b/"
+      },
+      "last_updated": "1659732603"
     }
   }
 }
