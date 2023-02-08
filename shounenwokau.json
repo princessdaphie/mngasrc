@@ -183,7 +183,7 @@
     },
     "21": {
       "title": "Bittersweet",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Daphie's": "/proxy/api/mangadex/chapter/4763556f-9276-4d10-b65f-3f335c6f6759/"
       },
@@ -191,7 +191,7 @@
     },
     "22": {
       "title": "Boundaries",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Daphie's": "/proxy/api/mangadex/chapter/09d686f9-230f-49f5-b1c7-ab2f9d4270fa/"
       },
@@ -199,7 +199,7 @@
     },
     "23": {
       "title": "Connection",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Daphie's": "/proxy/api/mangadex/chapter/5c60c7b6-a11d-4020-b88a-662970f9b6e8/"
       },
@@ -207,7 +207,7 @@
     },
     "24": {
       "title": "Determination",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Daphie's": "/proxy/api/mangadex/chapter/4790e4fa-49e2-4111-b48a-08779112f5c6/"
       },
@@ -215,11 +215,19 @@
     },
     "25": {
       "title": "Something I want",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Daphie's": "/proxy/api/mangadex/chapter/10bc3f58-7e3a-4495-b29d-4b2eaf2f0874/"
       },
       "last_updated": "1670971391"
+    },
+    "26": {
+      "title": "Where love goes",
+      "volume": "",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/394b5e94-22bb-42cc-867b-f76cc6eaf610/"
+      },
+      "last_updated": "1675834962"
     }
   }
 }
