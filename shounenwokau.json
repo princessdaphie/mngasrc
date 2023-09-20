@@ -252,6 +252,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/c53bfddb-0a49-4305-99d5-7d8ae16480c3/"
       },
       "last_updated": "1690857087"
+    },
+    "30": {
+      "title": "Welcome home",
+      "volume": "6",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/b546df80-fa52-4033-9188-7ba986f8f020/"
+      },
+      "last_updated": "1695183265"
     }
   }
 }
