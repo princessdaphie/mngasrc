@@ -164,6 +164,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/4dd9c641-86bd-4657-a84e-fe398f6c9678/"
       },
       "last_updated": "1700022429"
+    },
+    "19": {
+      "title": "Hatsumoude",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/f2e7639b-eab4-47aa-b00a-d0c244a75628/"
+      },
+      "last_updated": "1700426450"
     }
   }
 }
