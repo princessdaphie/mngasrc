@@ -172,6 +172,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/f2e7639b-eab4-47aa-b00a-d0c244a75628/"
       },
       "last_updated": "1700426450"
+    },
+    "20": {
+      "title": "Chocolate",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/2e6c21dc-71c6-4412-86f3-99fe8e5f42ec/"
+      },
+      "last_updated": "1700883239"
     }
   }
 }
