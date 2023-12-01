@@ -196,6 +196,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/188f37cd-dacc-46e9-a774-87afe0daf987/"
       },
       "last_updated": "1701200789"
+    },
+    "23": {
+      "title": "Birthday",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/25896b6c-4907-4a08-a7ad-39d080a40039/"
+      },
+      "last_updated": "1701399452"
     }
   }
 }
