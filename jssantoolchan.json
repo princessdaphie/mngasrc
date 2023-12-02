@@ -204,6 +204,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/25896b6c-4907-4a08-a7ad-39d080a40039/"
       },
       "last_updated": "1701399452"
+    },
+    "24": {
+      "title": "Transfer",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/432d375b-e9ba-4ecd-9de6-c6b34d6f6bc4/"
+      },
+      "last_updated": "1701488556"
     }
   }
 }
