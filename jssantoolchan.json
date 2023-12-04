@@ -212,6 +212,14 @@
         "Daphie's": "/proxy/api/mangadex/chapter/432d375b-e9ba-4ecd-9de6-c6b34d6f6bc4/"
       },
       "last_updated": "1701488556"
+    },
+    "24.5": {
+      "title": "Thereafter",
+      "volume": "3",
+      "groups": {
+        "Daphie's": "/proxy/api/mangadex/chapter/1f74aefe-4e36-4564-8989-874813053dbc/"
+      },
+      "last_updated": "1701733670"
     }
   }
 }
